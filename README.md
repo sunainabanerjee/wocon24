@@ -1,2 +1,3 @@
 # wocon24
-notebooks for workshop
+notebooks for workshop wocon 2024
+
